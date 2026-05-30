@@ -23,7 +23,7 @@ Project Zeta is designed to:
 ```bash
 git clone git@github.com:Bloi-Dev/Project-Zeta.git
 cd Project-Zeta
-````
+```
 
 2. Create a new branch for your work.
 
